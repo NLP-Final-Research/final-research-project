@@ -6,12 +6,6 @@ def printtweetdata(n, ith_tweet):
     print()
     print(f"Tweet {n}:")
     print(f"Username:{ith_tweet[0]}")
-    print(f"Description:{ith_tweet[1]}")
-    print(f"Location:{ith_tweet[2]}")
-    print(f"Following Count:{ith_tweet[3]}")
-    print(f"Follower Count:{ith_tweet[4]}")
-    print(f"Total Tweets:{ith_tweet[5]}")
-    print(f"Retweet Count:{ith_tweet[6]}")
     print(f"Tweet Text:{ith_tweet[7]}")
     print(f"Hashtags Used:{ith_tweet[8]}")
  
