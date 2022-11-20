@@ -1,4 +1,4 @@
-# NLP Final Project Proposal 
+# Natural Language Processing: Final Project Proposal 
 Yeonie Heo (sh5874)
 Oyungerel Amarsanaa (oa853)
 Jennifer Zheng (lz2278)
